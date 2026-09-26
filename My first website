@@ -1,0 +1,3 @@
+print("hello world")
+nam = input("Apna naam likho: ")
+print("aditya ruidas")
